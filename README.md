@@ -4,4 +4,4 @@
 
 <h1>You can click on below link to see the live demo of this website</h1>
 
-<h2><a href="https://laik-shaikh.github.io/Responsive-UI-Blogger/">Click Here</a></h2>
+<h2><a target="_blank" href="https://laik-shaikh.github.io/Responsive-UI-Blogger/">Click Here</a></h2>
